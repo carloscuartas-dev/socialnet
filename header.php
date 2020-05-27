@@ -13,7 +13,6 @@ echo <<<_INIT
     <link rel="icon" type="image/ico" sizes="32x32" href="/favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
     <script src='./assets/js/javascript.js'></script>
     <script src='./assets/js/jquery-2.2.4.min.js'></script>
     <script src='./assets/js/jquery.mobile-1.4.5.min.js'></script>

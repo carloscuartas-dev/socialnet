@@ -40,6 +40,13 @@ It uses jQuery and JavaScript routines.
 
 You must install XAMPP or another server system to run this web app, in addition to this you must to configure and create a MySQL Database to stablish properly connection with app.
 
+After create database, run the setup.php file to create database tables.
+
+```
+http://localhost/setup.php
+
+```
+
 
 ## 🎈 Usage <a name="usage"></a>
 
